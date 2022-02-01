@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "289319208362",
+    "project_id": "jay-s-messenger",
+    "storage_bucket": "jay-s-messenger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289319208362:android:e4107fc6a8b325bfee17d3",
+        "android_client_info": {
+          "package_name": "com.example.jaysmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289319208362-i6utqavk2avlksrb4kvdpdvg9j3j84bl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLWRyH1LyFT4NCOd8Tqz3kJtMXCE8CqHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289319208362-i6utqavk2avlksrb4kvdpdvg9j3j84bl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
